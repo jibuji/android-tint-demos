@@ -1,0 +1,7 @@
+/home/jiengfei/android/L-samples/samples/android-RecyclerView/Application/build/intermediates/classes/debug
+/home/jiengfei/android/L-samples/samples/android-RecyclerView/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-e94b5a91badd079319bc5cd4899a1ed933e49278.jar
+/home/jiengfei/android/L-samples/samples/android-RecyclerView/Application/build/intermediates/pre-dexed/debug/classes-5ddec8ff4c638927fb94c8a0d60264f01b3c52da.jar
+/home/jiengfei/android/L-samples/samples/android-RecyclerView/Application/build/intermediates/pre-dexed/debug/classes-570418d784d3bb671ea99292d2e220ea9d35cc51.jar
+/home/jiengfei/android/L-samples/samples/android-RecyclerView/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-14f835c08f7bddb1bc43d7a7abaeb1661edad623.jar
+/home/jiengfei/android/L-samples/samples/android-RecyclerView/Application/build/intermediates/pre-dexed/debug/classes-ae286d5b3432dad3c4d8b534ff2152ba943d8365.jar
+/home/jiengfei/android/L-samples/samples/android-RecyclerView/Application/build/intermediates/pre-dexed/debug/classes-bec3b5712f652c66b797528323cbfeeedfad60ab.jar
